@@ -1,4 +1,4 @@
-## House Price Prediction
+# House Price Prediction
 
 This project predicts house prices based on various features such as location, size, number of rooms, and other parameters.
 It uses Machine Learning regression models to train on historical housing data and estimate property prices.
