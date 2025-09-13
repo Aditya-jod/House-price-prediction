@@ -1,9 +1,9 @@
-🏡 House Price Prediction
+##House Price Prediction
 
 This project predicts house prices based on various features such as location, size, number of rooms, and other parameters.
 It uses Machine Learning regression models to train on historical housing data and estimate property prices.
 
-🚀 Features
+##Features
 
 Data cleaning and preprocessing
 
@@ -13,7 +13,7 @@ Model training using regression algorithms (Linear Regression, Random Forest, et
 
 Performance evaluation with metrics like RMSE & R²
 
-🛠️ Tech Stack
+##Tech Stack
 
 Python
 
@@ -23,7 +23,7 @@ Matplotlib, Seaborn
 
 Scikit-learn
 
-▶️ Usage
+##Usage
 
 Install dependencies
 
